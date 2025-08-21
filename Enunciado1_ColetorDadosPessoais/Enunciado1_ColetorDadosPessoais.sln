@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enunciado1_ColetorDadosPessoais", "Enunciado1_ColetorDadosPessoais.csproj", "{EAB17097-B0F6-BA23-0433-1B2D5985C69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB17097-B0F6-BA23-0433-1B2D5985C69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB17097-B0F6-BA23-0433-1B2D5985C69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB17097-B0F6-BA23-0433-1B2D5985C69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB17097-B0F6-BA23-0433-1B2D5985C69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EF99F6D-D0DE-4E64-AD4C-F4B31DA53415}
+	EndGlobalSection
+EndGlobal
